@@ -64,5 +64,8 @@ So I am happy to encourage use of this web app,
 I want people to be encouraged to use professional services when they should.
 ```
 
-## MVP:
+### MVP:
 A button on a page that redirects to useful SRE info when clicked.
+
+### Preferred technologies:
+?
