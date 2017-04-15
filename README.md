@@ -43,9 +43,10 @@ As a user with poor SRE education,
 So I can get the specific information I need,
 I would like a way to narrow my enquiry to get to the root of the issue that concerns me.
 ```
+```
 As a user with poor SRE education,
 So I can get the information I need,
-I want the information available to only be from medically accurate, trustworthy sources.
+I want the information available to only be from medically accurate, trustworth sources.
 ```
 ```
 As a SRE professional,
