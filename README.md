@@ -68,4 +68,4 @@ I want people to be encouraged to use professional services when they should.
 A button on a page that redirects to useful SRE info when clicked.
 
 ### Preferred technologies:
-?
+I want to test out Meteor js on my own project so I'm going to give this one a go with either Jasmine-node  or Mocha for testing.
