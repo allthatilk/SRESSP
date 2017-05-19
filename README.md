@@ -68,4 +68,4 @@ I want people to be encouraged to use professional services when they should.
 A button on a page that redirects to useful SRE info when clicked.
 
 ### Preferred technologies:
-Something Javascript?
+As I want it to be user-friendly on phones too, I'm going to try my hand at React with this one.
