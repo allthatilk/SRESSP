@@ -4,7 +4,7 @@ A discreet web app that finds the specific SRE information you need
 
 ## User Stories
 ```
-As a user, 
+As a user,
 So I can find the SRE information I need,
 I want to select from a basic set of categories.
 ```
@@ -46,7 +46,7 @@ I would like a way to narrow my enquiry to get to the root of the issue that con
 ```
 As a user with poor SRE education,
 So I can get the information I need,
-I want the information available to only be from medically accurate, trustworth sources.
+I want the information available to only be from medically accurate, trustworthy sources.
 ```
 ```
 As a SRE professional,
@@ -56,7 +56,7 @@ I want to know that people are being given the correct, medically accurate infor
 ```
 As an SRE professional,
 So I am happy to encourage use of this web app,
-I want basic safety questions to be asked on relevant topics.
+I want basic safeguarding questions to be asked on relevant topics.
 ```
 ```
 As an SRE professional,
@@ -68,4 +68,4 @@ I want people to be encouraged to use professional services when they should.
 A button on a page that redirects to useful SRE info when clicked.
 
 ### Preferred technologies:
-As I want it to be user-friendly on phones too, I'm going to try my hand at React with this one.
+As I want it to be user-friendly on phones too, I'm going to try my hand at React Native with this one.
